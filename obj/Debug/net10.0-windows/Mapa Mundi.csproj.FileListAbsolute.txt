@@ -1,0 +1,25 @@
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\obj\Debug\net10.0-windows\Mapa Mundi.csproj.AssemblyReference.cache
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\obj\Debug\net10.0-windows\Mapa Mundi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\obj\Debug\net10.0-windows\Mapa Mundi.AssemblyInfoInputs.cache
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\obj\Debug\net10.0-windows\Mapa Mundi.AssemblyInfo.cs
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\obj\Debug\net10.0-windows\Mapa Mundi.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\bin\Debug\net10.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\bin\Debug\net10.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\bin\Debug\net10.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\bin\Debug\net10.0-windows\Mapa Mundi.exe
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\bin\Debug\net10.0-windows\Mapa Mundi.deps.json
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\bin\Debug\net10.0-windows\Mapa Mundi.runtimeconfig.json
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\bin\Debug\net10.0-windows\Mapa Mundi.dll
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\bin\Debug\net10.0-windows\Mapa Mundi.pdb
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\bin\Debug\net10.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\bin\Debug\net10.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\bin\Debug\net10.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\bin\Debug\net10.0-windows\Microsoft.Web.WebView2.Core.xml
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\bin\Debug\net10.0-windows\Microsoft.Web.WebView2.WinForms.xml
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\bin\Debug\net10.0-windows\Microsoft.Web.WebView2.Wpf.xml
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\obj\Debug\net10.0-windows\Mapa Mundi.csproj.Up2Date
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\obj\Debug\net10.0-windows\Mapa Mundi.dll
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\obj\Debug\net10.0-windows\refint\Mapa Mundi.dll
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\obj\Debug\net10.0-windows\Mapa Mundi.pdb
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\obj\Debug\net10.0-windows\Mapa Mundi.genruntimeconfig.cache
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Mapa Mundi\obj\Debug\net10.0-windows\ref\Mapa Mundi.dll
